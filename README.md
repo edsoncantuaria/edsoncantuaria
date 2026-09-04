@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/dragon.png" alt="Dragão guardião" width="800" />
+<img src="assets/dragon.png" alt="Dragão de asas abertas" width="900" />
 
 <br/>
 
