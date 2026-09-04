@@ -24,7 +24,7 @@
 | **Arma principal** | TypeScript · React/Next.js · Node.js |
 | **Escola de magia** | IA generativa aplicada como *agente* — Mestre de Jogo, orquestrador de código, não autocomplete |
 | **Campanha ativa** | D&D 5ª Edição — Mestre de Masmorras nas horas vagas |
-| **Guilda** | Illimitar (Dev & QA) + produtos comerciais sob encomenda como autônomo |
+| **Guilda** | Autônomo — produtos comerciais sob encomenda (ex-Illimitar: Dev & QA) |
 
 <br/>
 
@@ -32,8 +32,8 @@
 
 | | |
 |---|---|
-| **Illimitar** — Dev & QA | Crio features e automações para os sistemas legados em **PHP** do ERP de varejo de moda da empresa. Já passei por suporte técnico antes de migrar para desenvolvimento. |
-| **Autônomo** | Desenvolvo produtos comerciais completos de ponta a ponta sob encomenda — veja abaixo. |
+| **Autônomo** *(atual)* | Desenvolvo produtos comerciais completos de ponta a ponta sob encomenda — veja abaixo. |
+| **Illimitar** — Dev & QA *(experiência anterior)* | Atuei criando features e automações para os sistemas legados em **PHP** do ERP de varejo de moda da empresa. Antes disso, passei por suporte técnico até migrar para desenvolvimento. |
 
 <br/>
 
