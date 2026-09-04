@@ -1,6 +1,26 @@
+```
+                     ___====-_  _-====___
+               _--^^^#####//      \\#####^^^--_
+            _-^##########// (    ) \\##########^-_
+           -############//  |\^^/|  \\############-
+         _/############//   (@::@)   \\############\_
+        /#############((     \\//     ))#############\
+       -###############\\    (oo)    //###############-
+      -#################\\  / "" \  //#################-
+     -###################\\/      \//###################-
+    _#/|##########/\######(   /\   )######/\##########|\#_
+    |/ |#/\#/\#/\/  \#/\##\  |  |  /##/\#/  \/\#/\#/\#| \|
+    `  |/  V  V  `   V  \#\| |  | |/#/  V   '  V  V  \|  '
+       `   `  `      `   / | |  | | \   '      '  '   '
+                        (  | |  | |  )
+                        __\ | |  | | /__
+                       (vvv(VVV)(VVV)vvv)
+```
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1025,50:2d1b4e,100:1a1025&height=210&section=header&text=Edson%20Cantuaria&fontSize=46&fontColor=e9d8a6&fontAlignY=36&desc=Full-stack%20Developer%20%26%20Mestre%20de%20Masmorras&descAlignY=54&descSize=18&descColor=c9b8e8&animation=fadeIn" alt="banner" />
+# Edson Cantuaria
+### Full-stack Developer & Mestre de Masmorras 🐉
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&pause=1200&color=E9D8A6&center=true&vCenter=true&width=620&lines=Programador+full-stack;Construo+agentes+de+IA%2C+n%C3%A3o+autocomplete;Mestre+de+D%26D+nas+horas+vagas)](https://git.io/typing-svg)
 
