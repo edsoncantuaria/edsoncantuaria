@@ -1,26 +1,11 @@
-```
-                     ___====-_  _-====___
-               _--^^^#####//      \\#####^^^--_
-            _-^##########// (    ) \\##########^-_
-           -############//  |\^^/|  \\############-
-         _/############//   (@::@)   \\############\_
-        /#############((     \\//     ))#############\
-       -###############\\    (oo)    //###############-
-      -#################\\  / "" \  //#################-
-     -###################\\/      \//###################-
-    _#/|##########/\######(   /\   )######/\##########|\#_
-    |/ |#/\#/\#/\/  \#/\##\  |  |  /##/\#/  \/\#/\#/\#| \|
-    `  |/  V  V  `   V  \#\| |  | |/#/  V   '  V  V  \|  '
-       `   `  `      `   / | |  | | \   '      '  '   '
-                        (  | |  | |  )
-                        __\ | |  | | /__
-                       (vvv(VVV)(VVV)vvv)
-```
-
 <div align="center">
 
+<img src="assets/dragon.png" alt="Dragão guardião" width="800" />
+
+<br/>
+
 # Edson Cantuaria
-### Full-stack Developer & Mestre de Masmorras 🐉
+### Full-stack Developer · Mestre de Masmorras 🐉
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&pause=1200&color=E9D8A6&center=true&vCenter=true&width=620&lines=Programador+full-stack;Construo+agentes+de+IA%2C+n%C3%A3o+autocomplete;Mestre+de+D%26D+nas+horas+vagas)](https://git.io/typing-svg)
 
