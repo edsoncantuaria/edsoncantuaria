@@ -30,10 +30,18 @@
 
 ## 🏰 Onde atuo
 
-| | |
-|---|---|
-| **Autônomo** *(atual)* | Desenvolvo produtos comerciais completos de ponta a ponta sob encomenda — veja abaixo. |
-| **Illimitar** — Dev & QA *(experiência anterior)* | Atuei criando features e automações para os sistemas legados em **PHP** do ERP de varejo de moda da empresa. Antes disso, passei por suporte técnico até migrar para desenvolvimento. |
+**Autônomo** *(atual)* — Desenvolvo produtos comerciais completos de ponta a ponta sob
+encomenda (veja abaixo).
+
+**Illimitar — Dev & QA** *(experiência anterior)* — Features e automações para os
+sistemas legados em **PHP** do ERP de varejo de moda da empresa, vindo do suporte
+técnico. Entre outras entregas:
+
+- CI/CD e uma rotina de IA completa no fluxo de desenvolvimento
+- Code reviewer automatizado com IA (estilo Bugbot) rodando nos PRs
+- Sistema de atendimento estilo Chatwoot, integrado com **WAHA** (WhatsApp) e IA
+- Integração com **Jira**: abertura de tarefas via IA, acompanhamento e rastreio
+- Bugfix e manutenção geral dos sistemas legados
 
 <br/>
 
